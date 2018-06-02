@@ -1,9 +1,6 @@
 # SOIRL
 Swithcy Omega auto switch rules
 
-## Attention
-This file will update with new rules
-
 ## How to use:
 
 Download Switchy Omega:
@@ -22,31 +19,10 @@ In side bar click on auto switch
 Inside title(Switch rules) click on Edit source code
 
 
-Then copy below list and paste to it:
+Then copy below rules.list file content and paste in the box.
+
+###Don't forget to click on apply changes
 
 
-[SwitchyOmega Conditions]
-@with result
-
-*.t.co +proxy
-*.tellapart.com +proxy
-*.twimg.com +proxy
-*.facebook.com +proxy
-*.twitter.com +proxy
-*.github.com +direct
-https://www.google.com/ +direct
-https://mail.google.com +direct
-*.envato.com/ +proxy
-*.themeforest.net/ +proxy
-*.youtube.com +proxy
-developers.google.com +proxy
-*.gitlab.com +direct
-*.twitter.com +proxy
-*.quora.com +proxy
-aws.amazon.com +proxy
-pkgs.org +direct
-*.aparat.com +direct
-*.cloudflare.com +proxy
-analytics.google.com +proxy
-
-* +direct
+## Update
+rules.list file will update with new rules
