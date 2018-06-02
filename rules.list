@@ -1,0 +1,27 @@
+[SwitchyOmega Conditions]
+@with result
+
+plus.google.com +proxy
+*.t.co +proxy
+*.tellapart.com +proxy
+*.twimg.com +proxy
+*.facebook.com +proxy
+*.twitter.com +proxy
+*.github.com +direct
+https://www.google.com/ +direct
+https://mail.google.com +direct
+*.envato.com/ +proxy
+*.themeforest.net/ +proxy
+*.youtube.com +proxy
+developers.google.com +proxy
+*.gitlab.com +direct
+*.twitter.com +proxy
+*.quora.com +proxy
+aws.amazon.com +proxy
+pkgs.org +direct
+*.aparat.com +direct
+*.cloudflare.com +proxy
+analytics.google.com +proxy
+
+* +direct
+
