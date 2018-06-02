@@ -21,7 +21,9 @@ Inside title(Switch rules) click on Edit source code
 
 Then copy below rules.list file content and paste in the box.
 
-###Don't forget to click on apply changes
+![Switchy Omega screenshot](https://raw.githubusercontent.com/MParvin/SOIRL/master/Screenshot%20from%202018-06-03%2001-50-44.png)
+
+***Don't forget to click on apply changes
 
 
 ## Update
