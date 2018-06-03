@@ -8,8 +8,8 @@ plus.google.com +proxy
 *.facebook.com +proxy
 *.twitter.com +proxy
 *.github.com +direct
-https://www.google.com/ +direct
-https://mail.google.com +direct
+www.google.com/ +direct
+mail.google.com +direct
 *.envato.com/ +proxy
 *.themeforest.net/ +proxy
 *.youtube.com +proxy
@@ -22,6 +22,51 @@ pkgs.org +direct
 *.aparat.com +direct
 *.cloudflare.com +proxy
 analytics.google.com +proxy
+*.developer.android.com  +proxy
+*.atlassian.com  +proxy
+*.bintray.com  +proxy
+*.bitbucket.org  +proxy
+*.developers.google.com  +proxy
+*.domains.google.com  +proxy
+*.dl.google.com  +proxy
+*.appengine.google.com  +proxy
+*.google.ai  +proxy
+*.unity3d.com  +proxy
+*.cloud.google.com  +proxy
+*.analytics.google.com  +proxy
+*.fiber.google.com  +proxy
+*.dl-ssl.google.com  +proxy
+*.dns.google.com  +proxy
+*.firebase.google.com  +proxy
+*.firebase.com  +proxy
+*.googleapis.com  +proxy
+*.java.com  +proxy
+*.khanacademy.org  +proxy
+*.oracle.com  +proxy
+*.storage.googleapis.com  +proxy
+*.themeforest.net
+*.download.virtualbox.org  +proxy
+*.sun.com  +proxy
+*.mongodb.com  +proxy
+*.envato.com  +proxy
+*.adobe.com  +proxy
+*.idaas.iam.ibm.com  +proxy
+*.vmware.com  +proxy
+*.docker.com  +proxy
+*.googlesource.com  +proxy
+*.polymer-project.org  +proxy
+*.udemy.com  +proxy
+*.material.io +proxy
+*.teamviewer.com  +proxy
+*.intel.com  +proxy
+*.developer.chrome.com  +proxy
+*.maven.google.com  +proxy
+*.nvidia.com  +proxy
+*.tensorflow.org  +proxy
+*.kaggle.com  +proxy
+*.medium.com  +proxy
+*.code.google.com  +proxy
+
 
 * +direct
 
