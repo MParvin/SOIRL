@@ -118,6 +118,7 @@ addons.prestashop.com +proxy
 *.googleadservices.com +proxy
 *.archive.org +direct
 *.rqb.ir +direct
+*.youtu.be +proxy
 
 * +direct
 
