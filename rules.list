@@ -1,6 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.facebook.com +proxy
+*.doubleclick.net +proxy
+*.shopify.com +proxy
 *.php.net +proxy
 *.damatajhiz.com +direct
 *.html5blank.com +proxy
@@ -16,7 +19,6 @@
 *.cognitiveseo.com +proxy
 *.codecanyon.net +proxy
 *.reportgarden.com +proxy
-*.facebook.com +proxy
 *.blubrry.net +proxy
 *.drugdesign.gr +proxy
 *.allmusic.com +proxy
@@ -119,6 +121,8 @@ addons.prestashop.com +proxy
 *.archive.org +direct
 *.rqb.ir +direct
 *.youtu.be +proxy
+business.instagram.com +proxy
+*.atlassian.com +proxy
 
 * +direct
 
