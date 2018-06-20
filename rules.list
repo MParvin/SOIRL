@@ -122,7 +122,6 @@ addons.prestashop.com +proxy
 *.rqb.ir +direct
 *.youtu.be +proxy
 business.instagram.com +proxy
-*.atlassian.com +proxy
 
 * +direct
 
