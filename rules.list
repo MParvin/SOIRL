@@ -1,6 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.tumblr.com +proxy
+*.jakearchibald.com +proxy
+*.cloudflarestatus.com +proxy
 *.facebook.com +proxy
 *.doubleclick.net +proxy
 *.shopify.com +proxy
@@ -122,6 +125,9 @@ addons.prestashop.com +proxy
 *.rqb.ir +direct
 *.youtu.be +proxy
 business.instagram.com +proxy
+*.bitbucket.org +proxy
+voice.google.com/ +proxy
+*.tumblr.com +proxy
 
 * +direct
 
