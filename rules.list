@@ -1,6 +1,18 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.tehranpayment.com +direct
+*.ssl7.ir +direct
+*.youtube.com +proxy
+*.wikiseda.com +proxy
+*.wikiseda.org +proxy
+*.pagemodo.com +direct
+*.rqb.ir +direct
+*.bpi.ir +direct
+*.drfollow.ir +proxy
+*.namlik.me +direct
+*.nextplus.me +proxy
+*.textplus.com +proxy
 *.tumblr.com +proxy
 *.jakearchibald.com +proxy
 *.cloudflarestatus.com +proxy
@@ -41,7 +53,6 @@ www.google.com/ +direct
 mail.google.com +direct
 *.envato.com/ +proxy
 *.themeforest.net/ +proxy
-*.youtube.com +proxy
 developers.google.com +proxy
 *.gitlab.com +direct
 *.twitter.com +proxy
@@ -102,7 +113,6 @@ analytics.google.com +proxy
 *.youtube.googleapis.com +proxy
 *.googlevideo.com +proxy
 *.bankmellat.ir +direct
-*.bpi.ir +direct
 *.docker.com +proxy
 hub.docker.com +proxy
 addons.prestashop.com +proxy
@@ -122,7 +132,6 @@ addons.prestashop.com +proxy
 *.bbc.com +proxy
 *.googleadservices.com +proxy
 *.archive.org +direct
-*.rqb.ir +direct
 *.youtu.be +proxy
 business.instagram.com +proxy
 *.bitbucket.org +proxy
@@ -130,6 +139,7 @@ voice.google.com/ +proxy
 *.tumblr.com +proxy
 *.nextplus.me +proxy
 *.textplus.com +proxy
+*.paypal.com +proxy
 
 * +direct
 
