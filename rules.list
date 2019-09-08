@@ -56,7 +56,6 @@ analytics.google.com +proxy
 *.heapanalytics.com +direct
 *.cloudflareapps.com +direct
 *.fullstory.com +direct
-*.google-analytics.com +direct
 *.upwork.com +proxy
 *.ephox.com +proxy
 *.grafana.com +proxy
@@ -70,32 +69,10 @@ analytics.google.com +proxy
 *.atlassian.com +proxy
 *.abarserver.net +direct
 *.adityagilra.blogspot.com +proxy
-104.237.227.222 +direct
 *.storage.googleapis.com +proxy
 *.googletagmanager.com +direct
 *.webpu.sh +direct
 *.digikala.com +direct
-HostWildcard: Skip to content +direct
-Features +direct
-Business +direct
-Explore +direct
-Marketplace +direct
-Pricing +direct
-HostWildcard: Sign in or Sign up +direct
-1 +direct
-0 +direct
-0 +direct
-MParvin/SOIRL +direct
-Code +direct
-HostWildcard: Issues 0 +direct
-HostWildcard: Pull requests 0 +direct
-HostWildcard: Projects 0 +direct
-Insights +direct
-HostWildcard: Join GitHub today +direct
-HostWildcard: GitHub is home to over 28 million developers working together to host and review code, manage projects, and build software together. +direct
-SOIRL/rules.list +direct
-HostWildcard: 1446f86 3 days ago +direct
-HostWildcard: 146 lines (142 sloc) 3.15 KB +direct
 *.tehranpayment.com +direct
 *.wikiseda.com +proxy
 *.wikiseda.org +proxy
