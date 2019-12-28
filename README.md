@@ -6,7 +6,7 @@ Swithcy Omega auto switch rules
 Download Switchy Omega:
 
 
-[For Chrome](https://chrome.google.com/webstore/detail/proxy-switchyomega)
+[For Chrome](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=en)
 
 [For Firefox](https://addons.mozilla.org/en-US/firefox/addon/switchyomega)
 
