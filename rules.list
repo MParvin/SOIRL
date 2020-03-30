@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.clamav.net +proxy
 *.tdesktop.com +proxy
 *.coursera.org +proxy
 *.slack.com +proxy
