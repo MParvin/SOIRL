@@ -1,6 +1,14 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.googleadservices.com +proxy
+*.nginx.com +proxy
+*.jellyfin.org +proxy
+*.oeconsortium.org +proxy
+*.cirt.net +proxy
+*.torproject.org +proxy
+*.joinmastodon.org +proxy
+*.mastodon.social +proxy
 *.clamav.net +proxy
 *.tdesktop.com +proxy
 *.coursera.org +proxy
