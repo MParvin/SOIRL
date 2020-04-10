@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.predictiveanalyticstoday.com
 *.googleadservices.com +proxy
 *.nginx.com +proxy
 *.jellyfin.org +proxy
