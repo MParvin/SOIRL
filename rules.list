@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.coinbase.com
 *.predictiveanalyticstoday.com
 *.googleadservices.com +proxy
 *.nginx.com +proxy
