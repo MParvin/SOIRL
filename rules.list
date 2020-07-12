@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.quttera.com
 *.faradaysec.com
 *.coinbase.com +proxy
 *.predictiveanalyticstoday.com +proxy
