@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.aave.com +proxy
 *.quttera.com +proxy
 *.faradaysec.com +proxy
 *.coinbase.com +proxy
