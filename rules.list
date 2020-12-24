@@ -184,6 +184,8 @@ voice.google.com/ +proxy
 *.textplus.com +proxy
 *.paypal.com +proxy
 *.redhat.com +proxy
+*.developers.google.com +proxy
+developers.google.com +proxy
 
 * +direct
 
