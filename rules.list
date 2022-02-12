@@ -189,5 +189,6 @@ voice.google.com/ +proxy
 developers.google.com +proxy
 console.cloud.google.com +proxy
 *.waze.com +proxy
+*.okd.io +proxy
 
 * +direct
