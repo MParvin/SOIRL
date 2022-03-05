@@ -191,5 +191,6 @@ console.cloud.google.com +proxy
 *.waze.com +proxy
 *.okd.io +proxy
 *.proxysql.com +proxy
+*.go.dev +proxy
 
 * +direct
