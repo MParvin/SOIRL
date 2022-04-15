@@ -192,5 +192,6 @@ console.cloud.google.com +proxy
 *.okd.io +proxy
 *.proxysql.com +proxy
 *.go.dev +proxy
+*.circleci.com +proxy
 
 * +direct
