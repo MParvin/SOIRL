@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.gtmetrix.com +proxy
 *.openresty.org +proxy
 *.dnsdumpster.com +proxy
 *.aave.com +proxy
