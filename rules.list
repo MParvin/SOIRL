@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.whatsapp.net +proxy
+*.whatsapp.com +proxy
 *.gtmetrix.com +proxy
 *.openresty.org +proxy
 *.dnsdumpster.com +proxy
