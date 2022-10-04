@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.linkedin.com +proxy
 *.whatsapp.net +proxy
 *.whatsapp.com +proxy
 *.gtmetrix.com +proxy
