@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.x.com +proxy
 bard.google.com +proxy
 *.linkedin.com +proxy
 *.whatsapp.net +proxy
