@@ -678,4 +678,6 @@ console.cloud.google.com +proxy
 *.hire.withgoogle.com +proxy
 *.redhat.io +proxy
 *.sentry.io +proxy
+notebooklm.google.com +proxy
+
 * +direct
